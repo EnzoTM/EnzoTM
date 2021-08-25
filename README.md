@@ -31,6 +31,7 @@
 <br>
 
 <a href="https://github.com/jstrieb/github-stats">
+  
 ![](https://github.com/EnzoTM/GitHubStatsJstrieb/blob/master/generated/overview.svg)
 ![](https://github.com/EnzoTM/GitHubStatsJstrieb/blob/master/generated/languages.svg)
 
