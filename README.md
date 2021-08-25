@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my TCC (Aritificial intelligence for client manegement)
 - ⚡ Fun fact: I like to play video games and study programming
 
-### How to get in toutch with me:
+### How to get in toutch with me
 
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new" />][instagram]
