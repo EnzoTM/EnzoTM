@@ -24,11 +24,10 @@
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="30" height="30" style="max-width:100%;"> 
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  width="30" height="30" style="max-width:100%;"> 
 
-<br>
-<br>
+<br><br><br><br>
 
-<a href="https://github.com/EnzoTM/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" /></a>
 
+![Enzo Tonon Morente's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&theme=dark&count_private=true)
 
 
 [twitter]: https://twitter.com/enzo_tmorente
