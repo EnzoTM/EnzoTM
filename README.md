@@ -25,9 +25,6 @@
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  width="30" height="30" style="max-width:100%;"> 
 
 <br><br><br><br>
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&theme=github_dark&count_private=true"> 
--->
 
 <a href="https://github.com/jstrieb/github-stats">
   
