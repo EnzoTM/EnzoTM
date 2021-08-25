@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages
+### Languages and frameworks
 
 <img align="left" alt="html" src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30" style="max-width:100%;"/>
 <img align="left" alt="css" src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30" style="max-width:100%;"/>
