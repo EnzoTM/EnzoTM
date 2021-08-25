@@ -28,7 +28,6 @@
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&theme=github_dark&count_private=true"> 
 -->
-<br>
 
 <a href="https://github.com/jstrieb/github-stats">
   
