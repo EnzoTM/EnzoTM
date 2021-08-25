@@ -24,7 +24,7 @@
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="30" height="30" style="max-width:100%;"> 
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  width="30" height="30" style="max-width:100%;"> 
 
-<br><br><br><br>
+<br><br><br>
 
 <a href="https://github.com/jstrieb/github-stats">
   
