@@ -26,7 +26,7 @@
 
 <br><br><br><br>
 
-![Enzo Tonon Morente's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&theme=github_dark&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoTM&show_icons=true&theme=github_dark&count_private=true"> 
 
 [twitter]: https://twitter.com/enzo_tmorente
 [instagram]: https://www.instagram.com/enzo.morente/
