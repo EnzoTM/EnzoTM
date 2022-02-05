@@ -1,6 +1,6 @@
 ## I'm a senior high school student
 
-- 🔭 I’m currently working on my TCC (Artificial intelligence for client manegement)
+- 🔭 I’m currently studying to get into a university
 - ⚡ Fun fact: I like to play video games and study programming
 
 ### How to get in toutch with me
