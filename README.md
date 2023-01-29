@@ -1,7 +1,6 @@
 ## I'm a senior high school student
 
-- 🔭 I’m currently studying to get into a university
-- ⚡ Fun fact: I like to play video games and study programming
+- 🔭 Computer science student at USP (University of São Paulo)
 
 ### How to get in toutch with me
 
