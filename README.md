@@ -1,6 +1,4 @@
-## I'm a senior high school student
-
-- 🔭 Computer science student at USP (University of São Paulo)
+## Computer science student at USP (University of São Paulo)
 
 ### How to get in toutch with me
 
