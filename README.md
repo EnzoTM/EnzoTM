@@ -6,8 +6,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="30" height="30" style="max-width:100%;"> 
 
-<br />
-
 ### Expirience with
 
 <img align="left" alt="html" src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30" style="max-width:100%;"/>
