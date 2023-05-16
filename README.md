@@ -1,6 +1,6 @@
 ## Computer science student at USP (University of São Paulo)
 
-### How to get in toutch with me
+### How to get in touch with me
 
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new" />][instagram]
